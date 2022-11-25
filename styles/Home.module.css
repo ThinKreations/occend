@@ -286,6 +286,8 @@
   word-wrap: break-word;
   font-size: 18px;
   overflow-y: auto;
+  padding-top: 25px;
+
 }
 
 .tablaCont::-webkit-scrollbar {
@@ -324,13 +326,12 @@
 
 .headTabla{
   margin-top: 5px;
-  transform: translate(-5px, -5px);
+  transform: translate(-5px, -30px);
   background-color: var(--imput-buscar);
   border-radius: 5px;
   font-size: 16px;
   width: 90%;
-  position: fixed;
-  
+  position: absolute;
 }
 
 .datoCliente{
@@ -445,6 +446,7 @@
   .tablaCont{
     width: 80vw;
     font-size: 12px;
+    padding-top: 25px;
   }
   .datoCliente{
     padding: 5px;
@@ -454,9 +456,9 @@
   }
   .headTabla{
     
-    transform: translate(-5px, 0px);
+    transform: translate(-5px, -30px);
     font-size: 12px;
-    width: 85%;
+    width: 80%;
     
   }
   .clienteAgregar{
