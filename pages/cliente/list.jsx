@@ -51,7 +51,254 @@ export default function List(){
                             0987654321
                             </div>
                     </div>
-                    
+                    <div className={styles.clienteC}>                
+                            <div className={styles.datoCliente}>
+                            Juan Martín<b> | </b>
+                            Nápoles<b> | </b>
+                            Munguía<b> | </b> 
+                            OCCEND<b> | </b>
+                            Dirección<b> | </b>
+                            CDMX<b> | </b>
+                            00000<b> | </b>
+                            RFC1234567890<b> | </b>
+                            correo@occend.com.mx<b> | </b> 
+                            1234567890<b> | </b> 
+                            0987654321
+                            </div>
+                    </div>
+                    <div className={styles.clienteC}>                
+                            <div className={styles.datoCliente}>
+                            Juan Martín<b> | </b>
+                            Nápoles<b> | </b>
+                            Munguía<b> | </b> 
+                            OCCEND<b> | </b>
+                            Dirección<b> | </b>
+                            CDMX<b> | </b>
+                            00000<b> | </b>
+                            RFC1234567890<b> | </b>
+                            correo@occend.com.mx<b> | </b> 
+                            1234567890<b> | </b> 
+                            0987654321
+                            </div>
+                    </div>
+                    <div className={styles.clienteC}>                
+                            <div className={styles.datoCliente}>
+                            Juan Martín<b> | </b>
+                            Nápoles<b> | </b>
+                            Munguía<b> | </b> 
+                            OCCEND<b> | </b>
+                            Dirección<b> | </b>
+                            CDMX<b> | </b>
+                            00000<b> | </b>
+                            RFC1234567890<b> | </b>
+                            correo@occend.com.mx<b> | </b> 
+                            1234567890<b> | </b> 
+                            0987654321
+                            </div>
+                    </div><div className={styles.clienteC}>                
+                            <div className={styles.datoCliente}>
+                            Juan Martín<b> | </b>
+                            Nápoles<b> | </b>
+                            Munguía<b> | </b> 
+                            OCCEND<b> | </b>
+                            Dirección<b> | </b>
+                            CDMX<b> | </b>
+                            00000<b> | </b>
+                            RFC1234567890<b> | </b>
+                            correo@occend.com.mx<b> | </b> 
+                            1234567890<b> | </b> 
+                            0987654321
+                            </div>
+                    </div>
+                    <div className={styles.clienteC}>                
+                            <div className={styles.datoCliente}>
+                            Juan Martín<b> | </b>
+                            Nápoles<b> | </b>
+                            Munguía<b> | </b> 
+                            OCCEND<b> | </b>
+                            Dirección<b> | </b>
+                            CDMX<b> | </b>
+                            00000<b> | </b>
+                            RFC1234567890<b> | </b>
+                            correo@occend.com.mx<b> | </b> 
+                            1234567890<b> | </b> 
+                            0987654321
+                            </div>
+                    </div><div className={styles.clienteC}>                
+                            <div className={styles.datoCliente}>
+                            Juan Martín<b> | </b>
+                            Nápoles<b> | </b>
+                            Munguía<b> | </b> 
+                            OCCEND<b> | </b>
+                            Dirección<b> | </b>
+                            CDMX<b> | </b>
+                            00000<b> | </b>
+                            RFC1234567890<b> | </b>
+                            correo@occend.com.mx<b> | </b> 
+                            1234567890<b> | </b> 
+                            0987654321
+                            </div>
+                    </div>
+                    <div className={styles.clienteC}>                
+                            <div className={styles.datoCliente}>
+                            Juan Martín<b> | </b>
+                            Nápoles<b> | </b>
+                            Munguía<b> | </b> 
+                            OCCEND<b> | </b>
+                            Dirección<b> | </b>
+                            CDMX<b> | </b>
+                            00000<b> | </b>
+                            RFC1234567890<b> | </b>
+                            correo@occend.com.mx<b> | </b> 
+                            1234567890<b> | </b> 
+                            0987654321
+                            </div>
+                    </div><div className={styles.clienteC}>                
+                            <div className={styles.datoCliente}>
+                            Juan Martín<b> | </b>
+                            Nápoles<b> | </b>
+                            Munguía<b> | </b> 
+                            OCCEND<b> | </b>
+                            Dirección<b> | </b>
+                            CDMX<b> | </b>
+                            00000<b> | </b>
+                            RFC1234567890<b> | </b>
+                            correo@occend.com.mx<b> | </b> 
+                            1234567890<b> | </b> 
+                            0987654321
+                            </div>
+                    </div>
+                    <div className={styles.clienteC}>                
+                            <div className={styles.datoCliente}>
+                            Juan Martín<b> | </b>
+                            Nápoles<b> | </b>
+                            Munguía<b> | </b> 
+                            OCCEND<b> | </b>
+                            Dirección<b> | </b>
+                            CDMX<b> | </b>
+                            00000<b> | </b>
+                            RFC1234567890<b> | </b>
+                            correo@occend.com.mx<b> | </b> 
+                            1234567890<b> | </b> 
+                            0987654321
+                            </div>
+                    </div><div className={styles.clienteC}>                
+                            <div className={styles.datoCliente}>
+                            Juan Martín<b> | </b>
+                            Nápoles<b> | </b>
+                            Munguía<b> | </b> 
+                            OCCEND<b> | </b>
+                            Dirección<b> | </b>
+                            CDMX<b> | </b>
+                            00000<b> | </b>
+                            RFC1234567890<b> | </b>
+                            correo@occend.com.mx<b> | </b> 
+                            1234567890<b> | </b> 
+                            0987654321
+                            </div>
+                    </div>
+                    <div className={styles.clienteC}>                
+                            <div className={styles.datoCliente}>
+                            Juan Martín<b> | </b>
+                            Nápoles<b> | </b>
+                            Munguía<b> | </b> 
+                            OCCEND<b> | </b>
+                            Dirección<b> | </b>
+                            CDMX<b> | </b>
+                            00000<b> | </b>
+                            RFC1234567890<b> | </b>
+                            correo@occend.com.mx<b> | </b> 
+                            1234567890<b> | </b> 
+                            0987654321
+                            </div>
+                    </div><div className={styles.clienteC}>                
+                            <div className={styles.datoCliente}>
+                            Juan Martín<b> | </b>
+                            Nápoles<b> | </b>
+                            Munguía<b> | </b> 
+                            OCCEND<b> | </b>
+                            Dirección<b> | </b>
+                            CDMX<b> | </b>
+                            00000<b> | </b>
+                            RFC1234567890<b> | </b>
+                            correo@occend.com.mx<b> | </b> 
+                            1234567890<b> | </b> 
+                            0987654321
+                            </div>
+                    </div>
+                    <div className={styles.clienteC}>                
+                            <div className={styles.datoCliente}>
+                            Juan Martín<b> | </b>
+                            Nápoles<b> | </b>
+                            Munguía<b> | </b> 
+                            OCCEND<b> | </b>
+                            Dirección<b> | </b>
+                            CDMX<b> | </b>
+                            00000<b> | </b>
+                            RFC1234567890<b> | </b>
+                            correo@occend.com.mx<b> | </b> 
+                            1234567890<b> | </b> 
+                            0987654321
+                            </div>
+                    </div><div className={styles.clienteC}>                
+                            <div className={styles.datoCliente}>
+                            Juan Martín<b> | </b>
+                            Nápoles<b> | </b>
+                            Munguía<b> | </b> 
+                            OCCEND<b> | </b>
+                            Dirección<b> | </b>
+                            CDMX<b> | </b>
+                            00000<b> | </b>
+                            RFC1234567890<b> | </b>
+                            correo@occend.com.mx<b> | </b> 
+                            1234567890<b> | </b> 
+                            0987654321
+                            </div>
+                    </div>
+                    <div className={styles.clienteC}>                
+                            <div className={styles.datoCliente}>
+                            Juan Martín<b> | </b>
+                            Nápoles<b> | </b>
+                            Munguía<b> | </b> 
+                            OCCEND<b> | </b>
+                            Dirección<b> | </b>
+                            CDMX<b> | </b>
+                            00000<b> | </b>
+                            RFC1234567890<b> | </b>
+                            correo@occend.com.mx<b> | </b> 
+                            1234567890<b> | </b> 
+                            0987654321
+                            </div>
+                    </div><div className={styles.clienteC}>                
+                            <div className={styles.datoCliente}>
+                            Juan Martín<b> | </b>
+                            Nápoles<b> | </b>
+                            Munguía<b> | </b> 
+                            OCCEND<b> | </b>
+                            Dirección<b> | </b>
+                            CDMX<b> | </b>
+                            00000<b> | </b>
+                            RFC1234567890<b> | </b>
+                            correo@occend.com.mx<b> | </b> 
+                            1234567890<b> | </b> 
+                            0987654321
+                            </div>
+                    </div>
+                    <div className={styles.clienteC}>                
+                            <div className={styles.datoCliente}>
+                            Juan Martín<b> | </b>
+                            Nápoles<b> | </b>
+                            Munguía<b> | </b> 
+                            OCCEND<b> | </b>
+                            Dirección<b> | </b>
+                            CDMX<b> | </b>
+                            00000<b> | </b>
+                            RFC1234567890<b> | </b>
+                            correo@occend.com.mx<b> | </b> 
+                            1234567890<b> | </b> 
+                            0987654321
+                            </div>
+                    </div>
                     
                     
                     
