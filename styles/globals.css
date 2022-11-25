@@ -1,0 +1,11 @@
+*{
+  margin: 0;
+  padding: 0%;
+}
+
+html, body{
+
+--imput-buscar: rgb(225,225,225);
+font-family: Work Sans;
+
+}
