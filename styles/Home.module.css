@@ -375,6 +375,8 @@
 .redBtn{
   background-color: red;
   padding: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
   font-size: 16px;
   font-family: Work Sans;
   border: none;
@@ -382,7 +384,8 @@
   margin: 5px;
   margin-top: 0px;
   transition: 0.3s ease-in-out;
-  width: 15vw;
+  width: max-content;
+
   color: white;
 }
 
