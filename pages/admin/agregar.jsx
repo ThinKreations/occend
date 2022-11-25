@@ -1,8 +1,8 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../../styles/Home.module.css'
-import Header from '../components/Header'
-import MainHead from '../components/MainHead'
+import Header from '../../components/Header'
+import MainHead from '../../components/MainHead'
 import Link from 'next/link'
 
 export default function AddCliente(){
@@ -10,7 +10,7 @@ export default function AddCliente(){
     return(
     
     <>
-    <MainHead tituloPestana="Agregar"/>
+        <MainHead tituloPestana="Agregar"/>
         <div className={styles.container}>
 
             
