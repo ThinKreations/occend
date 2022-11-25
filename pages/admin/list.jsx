@@ -3,9 +3,12 @@ import Image from 'next/image'
 import styles from '../../styles/Home.module.css'
 import Header from '../../components/Header'
 import MainHead from '../../components/MainHead'
-
+import { useRouter } from 'next/router'
 
 export default function List(){
+
+        const router = useRouter()
+
     return(
         <>
         <MainHead tituloPestana="Menú Principal"/>
@@ -20,7 +23,7 @@ export default function List(){
             <button className={styles.btnBuscar}><font face="Work Sans">BUSCAR</font></button>
             </form>
             </center>
-            <center><button className={styles.addCliente} onClick={()=>router.push('agregarCliente')}>Agregar Cliente</button></center>
+            <center><button className={styles.addCliente} onClick={()=>router.push('agregar')}>Agregar Cliente</button></center>
             <div className={styles.cont}>
                 
                 <div className={styles.tablaCont}>
