@@ -241,16 +241,40 @@
   color: white;
   font-family: Work Sans;
   font-size: 15px;
-  width: 85%;
+  width: max-content;
   padding: 5px;
   border-radius: 5px;
   box-shadow: 2px 2px 3px rgb(180,180,180);
   transition: 0.3s ease-in-out;
+  margin-left: 5vw;
 }
 
-.addCliente:hover{
-  width: 90vw;
+.btnCerrar{
+  border: none;
+  font-family: Work Sans;
+  font-size: 15px;
+  width: max-content;
+  padding: 5px;
+  background-color: red;
+  color: white;
+  box-shadow: 2px 2px 3px rgb(180,180,180);
+  border-radius: 5px;
+  margin-left: 1vw;
 }
+
+.btnHistorial{
+  border: none;
+  font-family: Work Sans;
+  font-size: 15px;
+  width: max-content;
+  padding: 5px;
+  color: white;
+  box-shadow: 2px 2px 3px rgb(180,180,180);
+  border-radius: 5px;
+  margin-left: 1vw;
+  background-color: var(--occend);
+}
+
 
 .tablaCont{
   width: 90%;
@@ -442,5 +466,8 @@
     margin:5px;
     margin-top: 10px;
     margin-bottom: 15px;
+  }
+  .addCliente, .btnCerrar, .btnHistorial{
+    font-size: 10px;
   }
 }

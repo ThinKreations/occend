@@ -23,7 +23,11 @@ export default function List(){
             <button className={styles.btnBuscar}><font face="Work Sans">BUSCAR</font></button>
             </form>
             </center>
-            <center><button className={styles.addCliente} onClick={()=>router.push('agregar')}>Agregar Cliente</button></center>
+            
+                <button className={styles.addCliente} onClick={()=>router.push('agregar')}>Agregar Cliente</button>
+                <button className={styles.btnHistorial} onClick={()=>router.push('/')}>Historial</button>
+                <button className={styles.btnCerrar} onClick={()=>router.push('/')}>Cerrar Sesión</button>
+                
             <div className={styles.cont}>
                 
                 <div className={styles.tablaCont}>
