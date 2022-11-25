@@ -36,7 +36,7 @@ export default function AddCliente(){
                         <input className={styles.input} placeholder="Empresa"></input>
                         <input className={styles.input} placeholder="Dirección"></input>
                         <input className={styles.input} placeholder="Ciudad"></input>
-                        <input className={styles.input} placeholder="Código Postal"></input>
+                        <input className={styles.input} placeholder="C.P."></input>
                         <input className={styles.input} placeholder="RFC"></input>
                         <input className={styles.input} placeholder="Email"></input>
                         <input className={styles.input} placeholder="Teléfono"></input>
