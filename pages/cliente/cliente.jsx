@@ -5,7 +5,8 @@ import Header from '../../components/Header'
 import MainHead from '../../components/MainHead'
 import Link from 'next/link'
 
-export default function AddCliente(){
+
+export default function Cliente(){
     
     return(
     
@@ -20,7 +21,7 @@ export default function AddCliente(){
             <center>
 
                 
-                <h1 className={styles.title}>Agregar Cliente</h1></center><br/>
+                <h1 className={styles.title}>`Nombre completo`</h1></center><br/>
             
             <div className={styles.cont}>
                 <center>
@@ -28,10 +29,11 @@ export default function AddCliente(){
                 <div>
                 <form>
                     <div className={styles.clienteAgregar}>
-                        <p>Nombre</p>
-                        <input className={styles.input} placeholder="Nombre(s)"></input>
-                        <input className={styles.input} placeholder="Paterno"></input>
-                        <input className={styles.input} placeholder="Materno"></input>
+                        {/*
+                        
+                        HOOKS para cambiar a campos de texto, y cambiar la pantalla
+                        
+                        */}
                         <p>Datos de Contacto</p>
                         <input className={styles.input} placeholder="Empresa"></input>
                         <input className={styles.input} placeholder="Dirección"></input>
@@ -42,8 +44,10 @@ export default function AddCliente(){
                         <input className={styles.input} placeholder="Teléfono"></input>
                         <input className={styles.input} placeholder="Cel."></input>
                     </div>
-                    <button className={styles.guardar}>Guardar</button>
                     <Link href="list"><button className={styles.redBtn}>Cancelar</button></Link>
+                    <button className={styles.guardar}>Editar</button>
+                    <button className={styles.redBtn}>Eliminar</button>
+                    
                 </form>
 
                 </div>
