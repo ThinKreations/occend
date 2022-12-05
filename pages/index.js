@@ -1,11 +1,10 @@
 import Head from 'next/head'
-
 import styles from '../styles/Home.module.css'
 import Header from '../components/Header'
 import { useForm } from 'react-hook-form'
-import { yupResolver } from '@hookform/resolvers/yup/dist/yup'
+
 import { useRouter } from 'next/router'
-import { schemaIniciarSesion } from '../../schemas/iniciarSesion'
+import { schemaIniciarSesion } from '../schemas/iniciarSesion'
 import swal from 'sweetalert'
 
 export default function Home() {
@@ -77,9 +76,10 @@ const {
 
                 <input className={styles.inputLogin} type={'email'} placeholder="Correo"></input><br/>
                 <input className={styles.inputLogin} type="password" placeholder="Contraseña"></input><br/>
+                
                 <center>
+
                   <button className={styles.btnLog}>Acceder</button>
-                  
                   
                 </center>
                 </font>
